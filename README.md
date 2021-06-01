@@ -1,14 +1,12 @@
 # Starter Application
 
-This is a simple android starter application implementing custome background images and blur transformation on it.
+This is a simple android application that detects all available features in the running devices
 
-## Features
+## API Reference
 
-### 1. Gradient backgrounds
+### 1. PackageManager
 
-### 2. Blur Image Transformation
-
-### 2. More than 100 Configurable blur backgrounds
+### 2. RecyclerView
 
 # Screenshots
 
